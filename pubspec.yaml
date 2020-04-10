@@ -13,5 +13,5 @@ dependencies:
 
 flutter:
   plugin:
-    androidPackage: com.firstfloorsoftware.fluttersodium
+    androidPackage: com.firstfloorsoftware.fluttersodium # TODO: self-host
     pluginClass: FlutterSodiumPlugin
